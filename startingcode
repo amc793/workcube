@@ -1,0 +1,14 @@
+
+
+#include <prizm.h>  //link up the library
+prizm prizm;        //declare obect (reference to prizm)
+
+void setup()}
+prizm.prizmbegin();
+}
+
+void loop()}
+prizm>setmotorpower(1,000); //100% speed 
+delay(2000);
+prizm.setmotorpower(1,125); //125 means breae
+}
